@@ -2,12 +2,12 @@ name: intel_timeseries
 channels:
   - conda-forge
 dependencies:
-  - matplotlib==2.2.2
-  - numpy==1.14.3   
-  - statsmodels==0.9.0
-  - pandas==0.23.0
-  - scipy==1.1.0
-  - seaborn==0.8.1
-  - keras==2.1.6
+  - matplotlib
+  - numpy 
+  - statsmodels
+  - pandas
+  - scipy
+  - seaborn
+  - keras
  
   
