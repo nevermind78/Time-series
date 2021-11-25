@@ -1,1 +1,2 @@
-apt-get -y install librrd-dev libpython-dev
+ librrd-dev
+ libpython-dev
