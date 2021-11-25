@@ -10,10 +10,8 @@ dependencies:
   - seaborn
   - keras
   - bokeh
-  - libmetric
   - sympy
   - pandas
   - vega
-  - pycast
 
 
