@@ -9,5 +9,11 @@ dependencies:
   - scipy
   - seaborn
   - keras
- 
-  
+  - bokeh
+  - libmetric
+  - sympy
+  - pandas
+  - vega
+  - pycast==v0.1.5-alpha
+
+
