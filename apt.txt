@@ -1,2 +1,1 @@
- librrd-dev
- libpython-dev
+apt-utils
