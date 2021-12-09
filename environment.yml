@@ -2,6 +2,7 @@ name: intel_timeseries
 channels:
   - conda-forge
 dependencies:
+  - python==3.6
   - matplotlib
   - numpy 
   - statsmodels
@@ -13,5 +14,6 @@ dependencies:
   - sympy
   - pandas
   - vega
+  - pyflux==0.3.2
 
 
