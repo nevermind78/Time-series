@@ -79,7 +79,7 @@ dependencies:
     - matplotlib==3.0.3
     - numdifftools==0.9.40
     - numpy==1.19.5
-    - pandas=>0.28
+    - pandas>=0.28
     - patsy==0.5.2
     - pillow==8.4.0
     - pyflux==0.3.2
