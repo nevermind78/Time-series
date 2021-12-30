@@ -88,5 +88,5 @@ dependencies:
     - scipy==1.5.4
     - seaborn==0.11.2
     - statsmodels==0.12.2
-    - sklearn==0.24.1
+    - sklearn
 prefix: /home/horizon/anaconda3/envs/Python36
