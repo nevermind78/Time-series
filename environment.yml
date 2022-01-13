@@ -89,6 +89,6 @@ dependencies:
     - seaborn==0.11.2
     - statsmodels==0.12.2
     - sklearn
-    - keras
-    - tensorflow
+    - keras==2.6.0
+    - tensorflow==2.6.2
 prefix: /home/horizon/anaconda3/envs/Python36
