@@ -4,7 +4,7 @@ channels:
 dependencies:
   - xz=5.2.5=h7b6447c_0
   - zeromq=4.3.4=h2531618_0
-  - zlib=1.2.11=h7b6447c_3
+  - zlib
   - pip:
     - opencv-python==4.5.4.60
     - algopy==0.5.7
