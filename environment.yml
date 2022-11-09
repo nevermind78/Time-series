@@ -24,4 +24,5 @@ dependencies:
     - sklearn
     - keras==2.6.0
     - tensorflow==2.6.2
+    - git+https://github.com/RJT1990/pyflux
 prefix: /home/horizon/anaconda3/envs/Python36
