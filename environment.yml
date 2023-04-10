@@ -5,16 +5,16 @@ dependencies:
   - python==3.7
   - pip
   - matplotlib==2.2.2
-  - numpy==1.14.3   
-  - statsmodels==0.9.0
-  - pandas==0.23.0
-  - scipy==1.1.0
-  - seaborn==0.8.1
-  - opencv==3.4.1
-  - keras==2.1.6
+  - numpy
+  - statsmodels
+  - pandas
+  - scipy
+  - seaborn
+  - opencv
+  - keras
   - tensorflow
-  - patsy==0.4.1  
-  - pandas-datareader==0.4.0
+  - patsy
+  - pandas-datareader
   - pip:
     - numdifftools==0.9.16
     - install git+https://github.com/RJT1990/pyflux
