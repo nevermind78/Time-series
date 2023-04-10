@@ -1,0 +1,16 @@
+
+pip==21.0.1
+matplotlib==2.2.2
+numpy  
+statsmodels
+pandas
+scipy
+seaborn
+opencv
+keras
+tensorflow
+patsy  
+pandas-datareader
+pip:
+numdifftools
+git+https://github.com/RJT1990/pyflux
