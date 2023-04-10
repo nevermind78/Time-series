@@ -1,0 +1,19 @@
+name: intel_timeseries
+channels:
+  - conda-forge
+dependencies:
+  - pip==21.0.1
+  - matplotlib==2.2.2
+  - numpy  
+  - statsmodels
+  - pandas
+  - scipy
+  - seaborn
+  - opencv
+  - keras
+  - tensorflow
+  - patsy  
+  - pandas-datareader
+  - pip:
+    - numdifftools
+    - install git+https://github.com/RJT1990/pyflux
