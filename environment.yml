@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - python==3.7
+  - keras
   - pip
   - cython
   - matplotlib==2.2.2
