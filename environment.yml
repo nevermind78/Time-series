@@ -4,6 +4,7 @@ channels:
 dependencies:
   - python==3.7
   - pip
+  - cython
   - matplotlib==2.2.2
   - numpy
   - statsmodels
