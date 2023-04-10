@@ -10,4 +10,4 @@ tensorflow
 patsy  
 pandas-datareader
 numdifftools
-git+https://github.com/RJT1990/pyflux
+
