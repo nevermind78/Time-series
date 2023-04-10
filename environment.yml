@@ -17,4 +17,4 @@ dependencies:
   - pandas-datareader
   - pip:
     - numdifftools==0.9.16
-    - install git+https://github.com/RJT1990/pyflux
+    - git+https://github.com/RJT1990/pyflux
