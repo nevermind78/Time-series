@@ -9,6 +9,5 @@ keras
 tensorflow
 patsy  
 pandas-datareader
-pip:
 numdifftools
 git+https://github.com/RJT1990/pyflux
